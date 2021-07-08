@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AssignmentLab11</string>
+    <string name="timer_s_name">Timer\'s Name</string>
+    <string name="input_timer_s_name_here">Input Timer\'s Name Here</string>
+    <string name="_5_seconds">5 Seconds</string>
+    <string name="_10_seconds">10 Seconds</string>
+    <string name="_15_seconds">15 Seconds</string>
+    <string name="_20_seconds">20 Seconds</string>
+    <string name="start">Start</string>
+    <string name="clear">Clear</string>
+</resources>
